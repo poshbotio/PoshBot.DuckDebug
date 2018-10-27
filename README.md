@@ -1,7 +1,7 @@
 # PoshBot.DuckDebug
 
 <p align="center">
-    <img style="width:30%" src="./media/duck.png" alt="Rubber duck">
+    <img src="./media/duck.png" alt="Rubber duck">
 </p>
 
 A friendly debugging assistant for PoshBot.
