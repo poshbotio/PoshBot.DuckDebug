@@ -1,0 +1,13 @@
+TOPIC
+    PoshBot.DuckDebug
+
+SHORT DESCRIPTION
+    A friendly debugging assistant for PoshBot.
+
+LONG DESCRIPTION
+    Rubber duck debugging is a method of debugging code by walking through the code
+    and explaining it to a rubber duck. By forcing yourself to explain the problem
+    to someone else (or something) in sufficient detail, you may come upon the
+    solution to the problem naturally.
+
+    It may seem odd, but the duck is here to help.
