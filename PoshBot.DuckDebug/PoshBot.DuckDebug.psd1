@@ -13,11 +13,11 @@
     AliasesToExport   = @()
     PrivateData       = @{
         PSData = @{
-            Tags = @('PoshBot', 'Rubber', 'Duck', 'Debugging')
-            # LicenseUri = ''
-            # ProjectUri = ''
-            # IconUri = ''
-            # ReleaseNotes = ''
+            Tags         = @('PoshBot', 'Rubber', 'Duck', 'Debugging')
+            LicenseUri   = 'https://raw.githubusercontent.com/poshbotio/PoshBot.DuckDebug/master/LICENSE'
+            ProjectUri   = 'https://github.com/poshbotio/PoshBot.DuckDebug'
+            IconUri      = 'https://raw.githubusercontent.com/poshbotio/PoshBot.DuckDebug/master/media/duck.png'
+            ReleaseNotes = 'https://raw.githubusercontent.com/poshbotio/PoshBot.DuckDebug/master/CHANGELOG.md'
         }
     }
 }
