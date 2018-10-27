@@ -15,6 +15,7 @@ function Invoke-DuckDebug {
         CommandName = 'duck',
         Aliases     = 'duckdebug'
     )]
+    [OutputType([string])]
     [cmdletbinding()]
     param(
         [Parameter(ValueFromPipeline, ValueFromRemainingArguments)]
